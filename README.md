@@ -1,0 +1,1 @@
+# mailalerts_resources
